@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "name": "Acción",
+      "channels": [
+        {
+          "name": "Acción 1",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRclxlQefEa4vcnhXbdImsbUIPA64Wv0Fpg&|s"
+        },
+        {
+          "name": "Acción 2",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMARI4QmE7iPP9sICnexdND80Mr61IXVJauQ&|s"
+        }
+      ]
+    },
+    {
+      "name": "Comedia",
+      "channels": [
+        {
+          "name": "Comedia 1",
+          "url": "https://test-streams.mux.dev/tos_ismc/main.m3u8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMiVxveKJxua-9vhr9wVTfb274aplKbQ8mqA&|s"
+        },
+        {
+          "name": "Comedia 2",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRclxlQefEa4vcnhXbdImsbUIPA64Wv0Fpg&|s"
+        }
+      ]
+    },
+    {
+      "name": "Drama",
+      "channels": [
+        {
+          "name": "Drama 1",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMARI4QmE7iPP9sICnexdND80Mr61IXVJauQ&|s"
+        },
+        {
+          "name": "Drama 2",
+          "url": "https://test-streams.mux.dev/tos_ismc/main.m3u8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMiVxveKJxua-9vhr9wVTfb274aplKbQ8mqA&|s"
+        }
+      ]
+    }
+  ]
+}
